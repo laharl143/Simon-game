@@ -1,4 +1,4 @@
-# simon-game
+# Simon-game
 
 <h1>Simon-game</h1>
 
