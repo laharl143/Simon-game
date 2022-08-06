@@ -1,5 +1,3 @@
-# Simon-game
-
 <h1>Simon-game</h1>
 
 <h2>Simon game using</h2>
